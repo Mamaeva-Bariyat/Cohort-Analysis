@@ -21,8 +21,9 @@
 Здесь самая сильная корреляция наблюдается между количеством новых и вернувшихся пользователей, что указывает на потенциальную тенденцию перехода новых пользователей в категорию вернувшихся.
 # когортный анализ:
 Для задачи когортного анализа мы сгруппируем данные по неделям года, чтобы создать когорты. Затем для каждой когорты (недели) мы рассчитаем среднее количество новых и вернувшихся пользователей, а также среднее значение "Длительности дня 1" и "Длительности дня 7". Начнем с группировки данных по неделям и расчета необходимых средних значений:
-![Weekly Average jf New vs. Returning Users.png](https://github.com/Mamaeva-Bariyat/Cohort-Analysis/blob/main/images/[Weekly%20Average%20jf%20New%20vs.Returning%20Users.png)
+![Weekly Average jf New vs. Returning Users.png](https://github.com/Mamaeva-Bariyat/Cohort-Analysis/blob/main/images/[Weekly%20Average%20jf%20New%20vs.%20Returning%20Users.png)
 
+![Weekly Average of Duration (Day 1 vs. Day 7).png](https://github.com/Mamaeva-Bariyat/Cohort-Analysis/blob/main/images/Weekly%20Average%20of%20Duration%20(Day%201%20vs.%20Day%207).png)
 
 
 
